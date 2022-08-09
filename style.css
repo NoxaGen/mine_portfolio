@@ -42,8 +42,8 @@ h2 {
     position: absolute;
     display: block;
     transform: translateX(-50%);
-    max-width: 40vw;
-    margin-top: 50vh;
+    width: 90vw;
+    margin-top: 65vh;
     left: 50%;
     letter-spacing: 2px;
     line-height: 20px;
